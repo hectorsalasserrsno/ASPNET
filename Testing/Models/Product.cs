@@ -12,6 +12,6 @@ namespace Testing.Models
         public int StockLevel{ get; set; }
         public IEnumerable<Category> Categories { get; set; }
 
-
+        
     }
 }
